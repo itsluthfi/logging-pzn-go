@@ -1,0 +1,6 @@
+time="2025-01-28T20:13:35+07:00" level=info msg="This is Info"
+time="2025-01-28T20:13:35+07:00" level=warning msg="This is Warn"
+time="2025-01-28T20:13:35+07:00" level=error msg="This is Error"
+time="2025-01-28T20:13:42+07:00" level=info msg="This is Info"
+time="2025-01-28T20:13:42+07:00" level=warning msg="This is Warn"
+time="2025-01-28T20:13:42+07:00" level=error msg="This is Error"
